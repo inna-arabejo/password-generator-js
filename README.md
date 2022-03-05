@@ -11,7 +11,7 @@ To generate a new password, the following requirements are met when:
 - The password is displayed in the page.
 
 ## Screenshot
-![Password generator screenshot](./css/images/password-generator.jpg)
+![Password generator screenshot](./images/password-generator.jpg)
 
 ## Link to the Final Page
 [Link to the password generator web page]https://inna-arabejo.github.io/password-generator-js/
