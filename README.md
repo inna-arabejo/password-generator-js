@@ -22,11 +22,12 @@ This program can be run through a browser to the the deployed application. Alter
 4. Click on `Open in Default Browser`
 5. The browser should render the web page
 
+## Link to the Final Page
+[Link to the password generator web page](https://inna-arabejo.github.io/password-generator-js/)
+
 ## Screenshot
 ![Password generator screenshot](./images/password-generator.jpg)
-
-## Link to the Final Page
-[Link to the password generator web page]https://inna-arabejo.github.io/password-generator-js/
+![Password generator screenshot](./images/generated-password.jpg)
 
 ## Sources
 - https://dev.to/code_mystery/random-password-generator-using-javascript-6a
