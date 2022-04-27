@@ -10,6 +10,16 @@ To generate a new password, the following requirements are met when:
 - The password generator generates a new password after selecting all the prompts.
 - The password is displayed in the page.
 
+## Usage:
+
+This program can be run through a browser to the the deployed application. Alternatively, to run this application locally you will need to:
+
+1. Clone this repository to receive all of the files
+2. Make sure you are in the directory of the application. It should be in a folder named password-generator.
+3. Right-click on the index.html file
+4. Click on `Open in Default Browser`
+5. The browser should render the web page
+
 ## Screenshot
 ![Password generator screenshot](./images/password-generator.jpg)
 
