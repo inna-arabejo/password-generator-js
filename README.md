@@ -1,5 +1,7 @@
 # Javascript Password Generator 
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 ## Description
 Create a password generator that secures access to sensitive data. Generate a password that meets these certain criteria. 
 
